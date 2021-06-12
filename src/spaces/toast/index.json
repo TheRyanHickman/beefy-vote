@@ -8,6 +8,6 @@
   "address": "0xc2B0aC2ADC4298b82E3b43594228876cCE7C68D2",
   "token": "0xc2B0aC2ADC4298b82E3b43594228876cCE7C68D2",
   "core": [],
-  "min": 1,
+  "min": 5000,
   "invalid": []
 }
