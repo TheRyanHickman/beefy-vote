@@ -17,7 +17,7 @@
         >
           <div class="p-4">
             <i class="iconfont iconwarning mr-1"></i>
-            You need at least {{ this.PROPOSAL_MINIMUM_BIFI_THRESHOLD }} BIFI to
+            You need at least {{ this.PROPOSAL_MINIMUM_BIFI_THRESHOLD }} TOASTz to
             create a proposal
           </div>
         </div>

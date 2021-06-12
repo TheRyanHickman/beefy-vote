@@ -3,18 +3,18 @@
 @import './assets/fonts/iconfont.css';
 
 :root {
-  --primary-color: #53aea3;
-  --header-bg: #f8f2ec;
-  --bg-color: #fbf9f6;
-  --border-color: #ded9d5;
-  --text-color: #000;
-  --link-color: #5a8f69;
+  --primary-color: #FFE803;
+  --header-bg: #181817;
+  --bg-color: #181817;
+  --border-color: #8585851a;
+  --text-color: #fff;
+  --link-color: #FFE803;
 
   --button-base-bg: #000;
   --button-base-text: #fff;
-  --button-hover-bg: #78b388;
+  --button-hover-bg: #FFE803;
   --button-hover-text: #fff;
-  --button-active-bg: #5a8f69;
+  --button-active-bg: #dbc900;
   --button-active-text: #fff;
   --button-disabled-bg: #888;
   --button-disabled-text: #fff;
@@ -110,7 +110,9 @@ textarea {
   padding: 0 12px;
   border-radius: 14px;
 }
-
+.white{
+  color: white !important;
+}
 .notification {
   color: white !important;
 }
